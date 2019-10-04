@@ -23,6 +23,9 @@
     background-color: #fff;
     color: blue;
 }
+.link.github {
+    background-color:#fff;
+}   
 .contact img {
     -webkit-transition:all 1s ease;
 }
